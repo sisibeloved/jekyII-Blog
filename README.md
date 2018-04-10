@@ -1,2 +1,2 @@
-# jekyII-Blog
-Personal blog using jekyII
+# jekyll-Blog
+Personal blog using jekyll
